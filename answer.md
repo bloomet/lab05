@@ -14,7 +14,8 @@ fi
 
 Проверяю работу скрипта, все работает отлично.
 
-![image](https://github.com/user-attachments/assets/80ec7676-7351-4337-836d-2a0e186a4843)
+![image](https://github.com/user-attachments/assets/f8ddfb5c-4cea-48c6-87fd-cfe2b26bc4c8)
+
 
 ### Использование Git Flow в проекте
 
@@ -76,6 +77,7 @@ git flow hotfix finish hotfix-1.0.1
 git push origin develop
 git push origin main
 ```
-![image](https://github.com/user-attachments/assets/dc3737a2-c21a-4277-8113-0d0a2444e9e7)
+![image](https://github.com/user-attachments/assets/f79daa99-ffcd-4b77-bab1-b1a4c0dd202c)
+
 
 
