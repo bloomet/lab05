@@ -13,6 +13,7 @@ fi
 ```
 
 Проверяю работу скрипта, все работает отлично.
+
 ![image](https://github.com/user-attachments/assets/80ec7676-7351-4337-836d-2a0e186a4843)
 
 ### Использование Git Flow в проекте
